@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-demolist.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-demolist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-consumer/spring-boot-eureka-consumer.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-consumer/spring-boot-eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-consumer-feign/spring-boot-eureka-consumer-feign.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-consumer-feign/spring-boot-eureka-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-consumer-ribbon-hystrix/spring-boot-eureka-consumer-ribbon-hystrix.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-consumer-ribbon-hystrix/spring-boot-eureka-consumer-ribbon-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-produce/spring-boot-eureka-produce.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-produce/spring-boot-eureka-produce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-server/spring-boot-eureka-server.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-server/spring-boot-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-zuul/spring-boot-eureka-zuul.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-zuul/spring-boot-eureka-zuul.iml" />
+    </modules>
+  </component>
+</project>

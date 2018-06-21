@@ -1,0 +1,12 @@
+spring:
+    application:
+        name:eureka-client
+server:
+    port:1003
+eureka:
+    instance:
+        lease-renewal-interval-in-seconds:30
+        lease-expiration-duration-in-seconds:90
+    client:
+        serviceUrl:
+            defaultZone:http://127.0.0.1:1112/eureka/,http://127.0.0.1:1111/eureka/
