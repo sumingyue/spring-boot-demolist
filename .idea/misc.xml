@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/spring-boot-eureka-consumer-feign/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-eureka-zuul/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-eureka-consumer-ribbon-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-schedule/pom.xml" />
       </list>
     </option>
   </component>

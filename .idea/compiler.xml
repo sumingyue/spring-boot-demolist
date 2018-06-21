@@ -22,6 +22,7 @@
         <module name="spring-boot-eureka-produce" />
         <module name="spring-boot-eureka-server" />
         <module name="spring-boot-eureka-zuul" />
+        <module name="spring-boot-schedule" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -31,6 +32,7 @@
       <module name="spring-boot-eureka-produce" target="1.8" />
       <module name="spring-boot-eureka-server" target="1.8" />
       <module name="spring-boot-eureka-zuul" target="1.8" />
+      <module name="spring-boot-schedule" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

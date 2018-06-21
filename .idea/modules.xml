@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-produce/spring-boot-eureka-produce.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-produce/spring-boot-eureka-produce.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-server/spring-boot-eureka-server.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-server/spring-boot-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-zuul/spring-boot-eureka-zuul.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-zuul/spring-boot-eureka-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-schedule/spring-boot-schedule.iml" filepath="$PROJECT_DIR$/spring-boot-schedule/spring-boot-schedule.iml" />
     </modules>
   </component>
 </project>
